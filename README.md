@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AI and Neuro Art Education Resources!
 
 You can use the [editor on GitHub](https://github.com/soongxueyong/neuroartedu/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
