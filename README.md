@@ -2,4 +2,4 @@
 
  [Web Sites](https://soongxueyong.github.io/neuroartedu/)
 
-To create A Software for Kids to learn AI, NeuroSciecne and CognitiveScicence, at same time kid can create Science Art works by the software.
+To create a Software for Kids to learn AI, NeuroSciecne and CognitiveScicence, at same time kid can create Science Art works by the software.
