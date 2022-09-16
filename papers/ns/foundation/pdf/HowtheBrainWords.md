@@ -1,0 +1,3 @@
+## THE BRAIN OF THE FUTURE 未来大脑
+### Superhuman Senses
+The latest electronic devices almost rival our eyes and other sense organs. Future versions may not only restore lost sensory function but even expand our range of sensations.Transmitting sight and sound Cochlear implants were introduced in the 1970s and retinal implants first appeared in 2011 to help people with severe hearing and sight problems, respectively. Video cameras and microphones “catch” light and sound and convert them into signals that travel to a processing unit. This creates a digital “map,” which is relayed via wireless signals to an implant. The implant sends the data via nerve impulses to our relevant sensory region of the brain.
